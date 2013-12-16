@@ -1,0 +1,18 @@
+{
+  "name": "crudly",
+  "version": "0.0.0",
+  "description": "express and mongoose simple as hell crud api router",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dhigginbotham",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "express": "~3.4.7",
+    "expect.js": "~0.2.0"
+  }
+}
