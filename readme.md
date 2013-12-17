@@ -1,4 +1,4 @@
 ## crudly
 mongoose restful crud api for express
 
-nothing to see here...
+very simple starter pack for express apis, brb.
