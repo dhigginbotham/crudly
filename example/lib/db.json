@@ -1,0 +1,13 @@
+{
+  "db" : {
+    "host"  : "127.0.0.1",
+    "port"  : 27017,
+    "model" : "comm_advisor",
+    "debug" : true,
+    "options" : {
+      "server"  : {
+        "poolSize" : 10
+      }
+    }
+  }
+}
